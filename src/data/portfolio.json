@@ -1,0 +1,251 @@
+{
+  "personal": {
+    "name": "Syed Abdullah Al Masum",
+    "title": "Full Stack Developer",
+    "tagline": "Passionate about problem solving and creating amazing web experiences",
+    "bio": "I'm a dedicated developer with expertise in modern web technologies. I love solving complex problems and building user-friendly applications.",
+    "profilePhoto": "/assets/images/profile.jpg",
+    "resume": "/assets/resume.pdf",
+    "location": "Rajshahi, Bangladesh",
+    "social": {
+      "email": "masum8h@gmail.com",
+      "linkedin": "https://linkedin.com/in/sa-masum",
+      "github": "https://github.com/sa-masum",
+      "twitter": "https://twitter.com/yourhandle",
+      "website": "https://yourwebsite.com"
+    }
+  },
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Computer Science and Engineering",
+      "university": "Rajshahi University of Engineering and Technology",
+      "location": "Rajshahi, Bangladesh",
+      "duration": "March 2022 - August 2026 (Expected)",
+      "cgpa": "3.27/4.00",
+      "relevant_courses": ["Data Structures", "Algorithms", "Database Systems", "Web Development"]
+    },
+    {
+      "id": 2,
+      "degree": "Higher Secondary Certificate",
+      "university": "Govt. Hazi Muhammad Mohsin College",
+      "location": "Chittagong, Bangladesh",
+      "duration": "July 2018 - January 2021",
+      "gpa": "5.00/5.00",
+      "relevant_courses": ["Mathematics", "Physics", "Chemistry", "ICT"]
+    }
+  ],
+  "skills": {
+    "programming": [
+      {
+        "name": "C++",
+        "level": "Advanced",
+        "icon": "code"
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "icon": "code"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Advanced",
+        "icon": "code"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Beginner",
+        "icon": "code"
+      }
+    ],
+    "web": [
+      {
+        "name": "React",
+        "level": "Advanced",
+        "icon": "react"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "Advanced",
+        "icon": "palette"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate",
+        "icon": "server"
+      },
+      {
+        "name": "Express.js",
+        "level": "Intermediate",
+        "icon": "server"
+      },
+      {
+        "name": "Next.js",
+        "level": "Beginner",
+        "icon": "globe"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git",
+        "level": "Advanced",
+        "icon": "git-branch"
+      },
+      {
+        "name": "VS Code",
+        "level": "Advanced",
+        "icon": "code"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Intermediate",
+        "icon": "database"
+      },
+      {
+        "name": "Firebase",
+        "level": "Intermediate",
+        "icon": "flame"
+      },
+      {
+        "name": "Figma",
+        "level": "Beginner",
+        "icon": "figma"
+      }
+    ],
+    "other": [
+      {
+        "name": "Problem Solving",
+        "level": "Intermediate",
+        "icon": "puzzle"
+      },
+      {
+        "name": "Team Leadership",
+        "level": "Intermediate",
+        "icon": "users"
+      },
+      {
+        "name": "UI/UX Design",
+        "level": "Beginner",
+        "icon": "paintbrush"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "name": "Sentimo",
+      "description": "Sentimo is a Sentiment analysis website using Natural Language Processing(NLP) that predicts sentiments based on text input.",
+      "image": "/assets/images/projects/sentimo.jpg",
+      "technologies": ["React", "Tailwind CSS", "MongoDB Atlas", "Python Flask"],
+      "features": [
+        "User authentication and authorization",
+        "Sentiment Analysis using NLP based on text input",
+        "Texts and Sentiments save for logged-in users"
+      ],
+      "github": "https://github.com/sa-masum/Sentimo",
+      "live": "",
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "name": "RUET Management System",
+      "description": "A full-stack web application for managing student and teacher profiles, built with Django (backend), React (frontend), and PostgreSQL.",
+      "image": "/assets/images/projects/ruet.jpg",
+      "technologies": ["React", "Tailwind CSS", "Django", "PostgreSQL"],
+      "features": [
+        "Student, Teacher and Head Signup/Login",
+        "Email OTP verification using Gmail SMTP",
+        "Profile Management (Edit/Update)",
+        "Role-based Access Control"
+      ],
+      "github": "https://github.com/sa-masum/RUET",
+      "live": "",
+      "status": "In Progress"
+    },
+    {
+      "id": 3,
+      "name": "HealthSpring",
+      "description": "HealthSpring is a hospital management system website built with modern web technologies for efficient healthcare management.",
+      "image": "/assets/images/projects/healthspring.jpg",
+      "technologies": ["React", "Node.js", "Express.js", "MongoDB"],
+      "features": [
+        "Role-based Signup and Login",
+        "Appointment system for patients",
+        "Appointment management system for doctors",
+        "Management system for Admin"
+      ],
+      "github": "https://github.com/sa-masum/healthspring",
+      "live": "",
+      "status": "Completed"
+    }
+  ],
+  "problemSolving": {
+    "leetcode": {
+      "username": "faimas",
+      "solved": {
+        "total": 0,
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "rank": "Unranked",
+      "streak": 0
+    },
+    "codeforces": {
+      "username": "faimas",
+      "rating": 0,
+      "maxRating": 0,
+      "rank": "Unrated"
+    },
+    "hackerrank": {
+      "username": "faimas",
+      "badges": [],
+      "stars": 0
+    },
+    "achievements": [
+      "Currently focusing on building practical projects",
+      "Developing strong foundation in web development",
+      "Learning advanced algorithms and data structures"
+    ]
+  },
+  "interests": [
+    {
+      "name": "Web Development",
+      "icon": "globe",
+      "description": "Building modern, responsive web applications"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "brain",
+      "description": "Exploring machine learning and AI applications"
+    },
+    {
+      "name": "Data Structures & Algorithms",
+      "icon": "tree-pine",
+      "description": "Problem solving and competitive programming"
+    },
+    {
+      "name": "Open Source",
+      "icon": "heart",
+      "description": "Contributing to open source projects"
+    },
+    {
+      "name": "Mobile Development",
+      "icon": "smartphone",
+      "description": "Cross-platform mobile app development"
+    },
+    {
+      "name": "Cloud Computing",
+      "icon": "cloud",
+      "description": "AWS, Azure, and cloud-native solutions"
+    }
+  ],
+  "experience": [],
+  "contact": {
+    "email": "masum8h@gmail.com",
+    "phone": "+880 1575-656020",
+    "location": "Rajshahi, Bangladesh",
+    "availability": "Open to opportunities",
+    "preferredContact": "email"
+  }
+}
