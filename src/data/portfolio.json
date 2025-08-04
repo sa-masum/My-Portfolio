@@ -23,16 +23,16 @@
       "location": "Rajshahi, Bangladesh",
       "duration": "March 2022 - August 2026 (Expected)",
       "cgpa": "3.27/4.00",
-      "relevant_courses": ["Data Structures", "Algorithms", "Database Systems", "Web Development"]
+      "relevant_courses": ["Data Structures", "Algorithms", "Database Systems", "Computer Architecture", "Compiler Design", "Web Development"]
     },
     {
       "id": 2,
-      "degree": "Higher Secondary Certificate",
+      "degree": "Higher Secondary Certificate(HSC) in Science",
       "university": "Govt. Hazi Muhammad Mohsin College",
       "location": "Chittagong, Bangladesh",
       "duration": "July 2018 - January 2021",
       "gpa": "5.00/5.00",
-      "relevant_courses": ["Mathematics", "Physics", "Chemistry", "ICT"]
+      "relevant_courses": ["Higher Mathematics", "Physics", "Chemistry", "ICT"]
     }
   ],
   "skills": {
