@@ -6,6 +6,7 @@ import Home from './components/Home';
 import Education from './components/Education';
 import Skills from './components/Skills';
 import ProblemSolving from './components/ProblemSolving';
+import Projects from './components/Projects';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -22,6 +23,7 @@ function App() {
           <Education />
           <Skills />
           <ProblemSolving />
+          <Projects />
         </main>
 
       </div>
