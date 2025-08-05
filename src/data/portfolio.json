@@ -48,13 +48,18 @@
         "icon": "code"
       },
       {
+        "name": "C",
+        "level": "Advanced",
+        "icon": "code"
+      },
+      {
         "name": "JavaScript",
         "level": "Advanced",
         "icon": "code"
       },
       {
-        "name": "TypeScript",
-        "level": "Beginner",
+        "name": "Java",
+        "level": "Intermediate",
         "icon": "code"
       }
     ],
@@ -80,9 +85,14 @@
         "icon": "server"
       },
       {
-        "name": "Next.js",
-        "level": "Beginner",
-        "icon": "globe"
+        "name": "MongoDB",
+        "level": "Intermediate",
+        "icon": "database"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Intermediate",
+        "icon": "database"
       }
     ],
     "tools": [
@@ -97,19 +107,9 @@
         "icon": "code"
       },
       {
-        "name": "MongoDB",
-        "level": "Intermediate",
-        "icon": "database"
-      },
-      {
         "name": "Firebase",
         "level": "Intermediate",
         "icon": "flame"
-      },
-      {
-        "name": "Figma",
-        "level": "Beginner",
-        "icon": "figma"
       }
     ],
     "other": [

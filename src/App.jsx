@@ -4,6 +4,7 @@ import { } from './utils/dataLoader';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Education from './components/Education';
+import Skills from './components/Skills';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
           {/* Home Section */}
           <Home />
           <Education />
+          <Skills />
         </main>
 
       </div>
